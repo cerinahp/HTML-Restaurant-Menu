@@ -18,9 +18,9 @@ li {
 }
 
 img {
-    width: 100%;
+    width: 50%;
     height: auto;
-    max-width: 100%;
+    max-width: 50%;
 }
 
 main {
@@ -30,6 +30,10 @@ main {
 nav {
     background-color: beige;
     padding: 10px;
+}
+
+nav {
+    width: 100%;
 }
 
 nav ul {
